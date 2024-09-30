@@ -12,12 +12,14 @@
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "01---ignite-timer": "file:",
+    "date-fns": "^4.1.0",
+    "immer": "^10.1.1",
     "phosphor-react": "^1.4.1",
-    "preact": "^10.24.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.53.0",
     "react-router-dom": "^6.26.2",
+    "router-dom": "^2.2.11",
     "styled-components": "^6.1.13",
     "zod": "^3.23.8"
   },
